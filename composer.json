@@ -1,0 +1,15 @@
+{
+    "name": "Static Html Page",
+    "description": "Displays a static HTML page.",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Jon Bulica"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
