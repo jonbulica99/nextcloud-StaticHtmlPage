@@ -1,5 +1,6 @@
 # Static Html Page
 [![Build Status](https://travis-ci.com/jonbulica99/nextcloud-StaticHtmlPage.svg?branch=master)](https://travis-ci.com/jonbulica99/nextcloud-StaticHtmlPage)
+
 Place this app in **nextcloud/apps/**
 
 ## Building the app
